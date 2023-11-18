@@ -18,7 +18,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/a54767f825a665a136aa3.mp4">
+  <img src="https://telegra.ph/file/e7115f6daa4a24f69cd55.jpg">
 </p>
 
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Aɾαɳƙ Mυʂιƈ](https://t.me/Arank_Music)
