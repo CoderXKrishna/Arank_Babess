@@ -1,7 +1,7 @@
 {
-      "name": "𝄟ॐ❥𝗩𝗜𝗣🍷𝗥𝗢𝗕𝗢𝗧⏤͟͟͞❥͜͡𝄟⃟🥀",
-      "description": "𝐓𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
-      "logo": "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg",
+      "name": "Їт$з_Аяапк",
+      "description": "I'm Arank...my functions are managing your chats,let you listen all your favourite songs,control the access of your chats.Thankyou so much it's all about me!❤️.",
+      "logo": "https://telegra.ph/file/f080c872f5e4be4c4b09f.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -22,12 +22,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "14050586"
+         "value": ""
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "42a60d9c657b106370c79bb0a8ac560c"
+         "value": ""
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -55,17 +55,17 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1808943146"
+         "value": "6895470102"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg"
+         "value": "https://telegra.ph/file/f080c872f5e4be4c4b09f.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "TG_FRIENDSS"
+         "value": ""
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
