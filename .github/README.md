@@ -1,5 +1,9 @@
+<h2 align="center">
+    𝄟🌹Arank Babess🌹​​​​​𝄟​​​​​
+</h2>
+
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="CoderXKrishna Logo">
+  <img src="https://telegra.ph/file/0b9d7bd278272147f1f3c.jpg">
 </p>
 <h1 align="center">
   <b>Arank - UserBot</b>
