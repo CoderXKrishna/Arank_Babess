@@ -21,7 +21,7 @@
   <img src="https://telegra.ph/file/e7115f6daa4a24f69cd55.jpg">
 </p>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Aɾαɳƙ Mυʂιƈ](https://t.me/Arank_Music)
+ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [кαηιѕнкα мαηαgмєηт](https://t.me/Itsz_Arank_Babes_Bot)
 ━━━━━━━━━━━━━━━━━━━━
 
 
@@ -47,7 +47,7 @@
 <a href="https://t.me/Mrs_And_Mr_Hitler"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://t.me/Itsz_Arank_Babess"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Itsz_Arank_Babes_Bot"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
