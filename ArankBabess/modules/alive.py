@@ -30,7 +30,7 @@ Arank = [
     ],
 ]
 
-lol = "https://telegra.ph/file/58f52417365f7f8622e02.jpg"
+lol = "https://telegra.ph/file/e96afa43e300cd6a952cd.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
@@ -54,10 +54,10 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.8)
     await m.reply_photo(
         lol,
-        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝗩𝗜𝗣 𝗥𝗢𝗕𝗢𝗧](f"t.me/{BOT_USERNAME}")』🎄**
+        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[ҡαɳเรɦҡα ɱαɳαɠɱεɳƭ](f"t.me/{BOT_USERNAME}")』🎄**
    ╔═════ஜ۩۞۩ஜ════╗
 
-   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [Arank](https://t.me/Arank_Music)♨️
+   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [Kanishka](https://t.me/)♨️
 
    ╚═════ஜ۩۞۩ஜ════╝""",
         reply_markup=InlineKeyboardMarkup(Arank),
