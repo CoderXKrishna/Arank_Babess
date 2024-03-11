@@ -57,7 +57,7 @@ async def restart(client, m: Message):
         caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[ҡαɳเรɦҡα ɱαɳαɠɱεɳƭ](f"t.me/{BOT_USERNAME}")』🎄**
    ╔═════ஜ۩۞۩ஜ════╗
 
-   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [Kanishka](https://t.me/)♨️
+   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [Kanishka](https://t.me/Itsz_Kanishka_Babess)♨️
 
    ╚═════ஜ۩۞۩ஜ════╝""",
         reply_markup=InlineKeyboardMarkup(Arank),
@@ -68,4 +68,4 @@ __help__ = """
 *ᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs*:
 » /alive*:* ᴛᴏ ᴄʜᴇᴀᴋ ❓  ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ?
 
-☆............𝙱𝚈 » [Arank](https://t.me/Arank_Music)............☆"""
+☆............𝙱𝚈 » [Kanishka](https://t.me/Itsz_Kanishka_Babess)............☆"""
