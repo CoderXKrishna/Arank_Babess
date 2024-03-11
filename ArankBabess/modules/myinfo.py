@@ -10,7 +10,7 @@ from ArankBabess import telethn as tgbot
 from ArankBabess.events import register
 
 edit_time = 5
-""" =======================𝗩𝗜𝗣 𝗥𝗢𝗕𝗢𝗧====================== """
+""" =======================𝑲𝒂𝒏𝒊𝒔𝒉𝒌𝒂 𝑴𝒂𝒏𝒂𝒈𝒎𝒆𝒏𝒕====================== """
 file1 = "https://telegra.ph/file/9a85d0a873e2dd80d278d.jpg"
 file2 = "https://telegra.ph/file/9e7815284031452afa9e5.jpg"
 file3 = "https://telegra.ph/file/dcc5e003287f69acea368.jpg"
@@ -65,7 +65,7 @@ async def callback_query_handler(event):
     try:
         boy = event.sender_id
         PRO = await bot.get_entity(boy)
-        LILIE = "ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝗩𝗜𝗣 𝗕𝗢𝗬\n\n"
+        LILIE = "ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝑲𝒂𝒏𝒊𝒔𝒉𝒌𝒂 𝑴𝒂𝒏𝒂𝒈𝒎𝒆𝒏𝒕\n\n"
         LILIE += f"ғɪʀsᴛ ɴᴀᴍᴇ: {PRO.first_name} \n"
         LILIE += f"ʟᴀsᴛ ɴᴀᴍᴇ: {PRO.last_name}\n"
         LILIE += f"ʏᴏᴜ ʙᴏᴛ : {PRO.bot} \n"
@@ -82,4 +82,4 @@ __mod_name__ = "📍ɪɴғᴏ📍"
 __help__ = """
  /myinfo  ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ɪɴғᴏ 
 
-☆............𝙱𝚈 » [Arank](https://t.me/Arank_Music)............☆"""
+☆............𝙱𝚈 » [Kanishka](https://t.me/Itsz_Kanishka_Babess)............☆"""
